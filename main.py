@@ -57,7 +57,14 @@ def switch_screen():
 q1=Question("яблуко","apple","aple","application","applle")
 q2=Question("Машина","car","mashina","lamborgini","caar")
 q3=Question("Будинок","house","home","horse","homework")
-question=[q1,q2,q3]
+q4=Question("Ліжко","bed","bad","hores","home")
+q5=Question("Гараж","garage","home","son","garden")
+q6=Question("Вікно","window","winndow","win","python")
+q7=Question("Україна","Ukraine","ukr","Uraine","Ukrayna")
+q8=Question("Син","Son","Sun","horse","Ivan")
+q9=Question("Кінь","horse","home","hores","hoser")
+q10=Question("Слон","elephant","elefant","elf","elefont")
+question=[q1,q2,q3,q4,q5,q6,q7,q8,q9,q10]
 
 radio_list=[rbtn1,rbtn2,rbtn3,rbtn4]
 shuffle(radio_list)

@@ -49,8 +49,5 @@ line_menu.addLayout(line2_hor)
 line_menu.addWidget(stat) 
 line_menu.addWidget(stat_info) 
 line_menu.addWidget(btn_back) 
+
  
-#menu_win=QWidget() 
-#menu_win.setLayout(line_menu) 
- 
-#menu_win.show()

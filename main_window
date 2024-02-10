@@ -26,7 +26,6 @@ rbtn1=QRadioButton("1")
 rbtn2=QRadioButton("2") 
 rbtn3=QRadioButton("3") 
 rbtn4=QRadioButton("4") 
- 
 radio_group=QButtonGroup() 
 radio_group.addButton(rbtn1) 
 radio_group.addButton(rbtn2) 
